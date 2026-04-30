@@ -2,8 +2,8 @@
 
 ## 🔷 Introduction
 
-This repository contains **well-structured notes on Object-Oriented Programming (OOPs) in Java**.
-It covers all the **core concepts from basics to advanced**, explained in a simple and easy-to-understand manner.
+* This repository contains **well-structured notes on Object-Oriented Programming (OOPs) in Java**.
+* It covers all the **core concepts from basics to advanced**, explained in a simple and easy-to-understand manner.
 
 OOPs is a programming paradigm that helps in designing software using **objects, classes, and real-world concepts**.
 
