@@ -48,4 +48,3 @@ This module covers all **Object-Oriented Programming (OOP) concepts in Java**, a
 
 ---
 
-✅ Or generate **index navigation page for full Java course**
