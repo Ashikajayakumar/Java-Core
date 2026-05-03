@@ -85,25 +85,6 @@ The **List interface** in Java is part of the Collection Framework used to store
 
 ---
 
-# 🚀 Purpose of List
-
-List is used in real-world applications like:
-
-* Storing ordered data (student list)
-* Search-based systems
-* Navigation history
-* Undo/Redo operations (Stack)
-
----
-
-# 📌 Summary
-
-* List = **Ordered collection**
-* ArrayList = Fast access
-* LinkedList = Fast modification
-* Vector = Thread-safe
-* Stack = LIFO structure
-
 ---
 
 If you want next, I can also create:
