@@ -60,6 +60,8 @@ This repository contains a **structured Java learning path** starting from basic
 * 📄 [Collection Basics](./3.Collection/1.Collection%20-%20Basic/01.Collection%20.md)
 * 📄 [Generic vs Non-Generic](./3.Collection/1.Collection%20-%20Basic/02.Generic%20VS%20Non-Generic.md)
 * 📄 [Extends vs Interface](./3.Collection/1.Collection%20-%20Basic/03.Extends%20vs%20Interface%20.md)
+* 📄 [Cursor](https://github.com/Ashikajayakumar/Java-Core/blob/main/3.Collection/1.Collection%20-%20Basic%20/04.Cursor.md)
+
 
 
 
