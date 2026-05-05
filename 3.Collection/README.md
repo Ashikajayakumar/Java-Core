@@ -1,6 +1,6 @@
 
 
-# 📘 Java Collections Framework (Master Index)
+# 📘 Java Collections Framework 
 
 This repository covers the complete **Java Collections Framework**, including:
 
