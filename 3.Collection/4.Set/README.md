@@ -1,6 +1,6 @@
 
 
-# 📘 4. Set (Java Collections Framework)
+# 📘 4. Set
 
 The **Set interface** is part of the Java Collections Framework used to store **unique elements only**.
 
