@@ -82,5 +82,3 @@ This repository covers the complete **Java Collections Framework**, including:
 ---
 
 
-
-✅ Or **flowchart diagram of entire Collections Framework** 🚀
