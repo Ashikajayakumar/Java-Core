@@ -1,6 +1,6 @@
 
 
-# ☕ Java Programming Roadmap 
+# ☕ Java Programming Roadmap (Complete Note)
 
 This repository contains a **structured Java learning path** starting from basics to advanced concepts like **Collections, OOPs, Multithreading, and Exception Handling**.
 
