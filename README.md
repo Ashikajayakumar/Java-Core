@@ -18,7 +18,7 @@ This repository contains a **structured Java learning path** starting from basic
 * 📄 [Strings](./1.Basics%20of%20Java/9.String.md)
 
 
-# 📌 🧠 2. OOPs Concepts
+# 📌 🧠 [2. OOPs Concepts](https://github.com/Ashikajayakumar/Java-Core/tree/main/2.OOPS%20-Concepts)
 
 ## 🔹 Core OOPs
 
