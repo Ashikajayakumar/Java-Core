@@ -5,7 +5,7 @@
 This repository contains a **structured Java learning path** starting from basics to advanced concepts like **Collections, OOPs, Multithreading, and Exception Handling**.
 
 
-# 📌 📚 1. Basics of Java
+# 📌 📚 [1. Basics of Java](https://github.com/Ashikajayakumar/Java-Core/tree/main/1.Basics%20of%20Java)
 
 * 📄 [JDK, JRE and JVM](./1.Basics%20of%20Java/1.JDK,JRE%20AND%20JVM.md)
 * 📄 [First Program](./1.Basics%20of%20Java/2.First%20Program.md)
