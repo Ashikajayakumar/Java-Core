@@ -53,7 +53,7 @@ This repository contains a **structured Java learning path** starting from basic
 * 📄 [InterCommunication, ShutdownHook, ThreadPool, ThreadGroup](./2.OOPS%20-Concepts/03.Multithreading/07.InterCommunication%20,Shut%20DownHook,ThreadPool,Thread%20Group.md)
 
 
-# 📌 📦 3. Collection Framework
+# 📌 📦 [3. Collection Framework](https://github.com/Ashikajayakumar/Java-Core/tree/main/3.Collection)
 
 ## 🔹 Basics
 
