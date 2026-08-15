@@ -15,7 +15,7 @@ OOPs is a programming paradigm that helps in designing software using **objects,
 * ✔ Improves **code structure & readability**
 * ✔ Provides **security using encapsulation**
 * ✔ Makes applications **scalable and maintainable**
-* ✔ Used in **real-world systems** (Banking, Web Apps, AI, etc.)
+* ✔ Used in **real-world systems** (Banking, Web Apps, AI, etc.) 
 
 ---
 
@@ -62,8 +62,3 @@ OOPs is a programming paradigm that helps in designing software using **objects,
 * **Object Class** → Parent of all classes
 * **Wrapper Class** → Converts primitive ↔ object
 
----
-
-
-
----
