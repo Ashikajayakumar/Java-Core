@@ -1,3 +1,4 @@
+<img width="979" height="1606" alt="image" src="https://github.com/user-attachments/assets/5e06bea3-6d89-42c9-9a50-5f7c0bce7939" />
 # ⚠️ Java Exception Handling
 
 * Welcome to the **Exception Handling** module in Java 🚀
